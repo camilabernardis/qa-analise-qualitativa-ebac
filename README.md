@@ -10,6 +10,5 @@ Para este exercício, foi analisado o teclado mecânico **Neologic Crystal Edge 
 
 ## Conteúdo do repositório
 - `Relatorio_Analise_Qualitativa_Neologic_Crystal_Edge_65.docx` — relatório final.
-- `evidencias/` — imagens utilizadas como prova na análise.
 - `M2-modeloAnaliseQualidade.docx` — modelo fornecido pela EBAC.
 - `M2-DIRETRIZ ABNT.docx` — diretrizes de formatação ABNT utilizadas.
