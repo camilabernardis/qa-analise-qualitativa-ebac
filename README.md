@@ -4,7 +4,7 @@
 
 **Relatório de análise de qualidade do teclado mecânico Neologic Crystal Edge 65%.**
 
-Primeiro exercício prático do curso de **Qualidade de Software (QA)** da EBAC.
+Primeiro exercício prático do curso de **Engenharia de Qualidade de Software (QA)** da EBAC.
 
 <br />
 
@@ -77,7 +77,7 @@ qa-analise-qualitativa-ebac/
 
 ## 🙏 Agradecimentos
 
-À **EBAC** pelo curso de Qualidade de Software e pelo material de apoio.
+À **EBAC** pelo curso de Engenharia de Qualidade de Software e pelo material de apoio.
 
 ## 👩‍💻 Autora
 
